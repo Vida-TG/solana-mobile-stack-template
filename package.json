@@ -1,5 +1,5 @@
 {
-  "name": "@solana-mobile/solana-react-native-tutorial-starter",
+  "name": "solana-mobile-stack-template",
   "version": "0.0.1",
   "private": true,
   "scripts": {
